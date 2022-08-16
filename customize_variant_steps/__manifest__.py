@@ -9,8 +9,8 @@
     'category': 'Ecommerce',
     'author': 'Odolution',
     'license': 'LGPL-3',
-    'price': 10.00,
-    'currency': "USD",
+    # 'price': 10.00,
+    # 'currency': "USD",
     'images' : [],
     'depends' : ['website','website_sale'],
     'data': [
