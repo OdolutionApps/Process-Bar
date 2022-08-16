@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name' : 'Variant process bar on website',
+    'name' : 'Variant Process Bar on website',
     'version' : '1.1',
     'summary': 'Variant process bar on website',
     'sequence': 10,
