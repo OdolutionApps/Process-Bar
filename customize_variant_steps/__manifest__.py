@@ -19,7 +19,6 @@
         
     ],
 
-   
     
     'assets': {
         'web.assets_frontend': [
